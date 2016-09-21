@@ -1,0 +1,9 @@
+{
+  "name": "log-color",
+  "version": "0.0.0",
+  "description": "LogColor",
+  "main": "app.js",
+  "author": {
+    "name": "McRain"
+  }
+}
