@@ -1,11 +1,11 @@
 {
-  "name": "log-color",
+  "name": "debugcolor",
   "version": "0.0.1",
   "description": "console log color",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/McRain/logcolor.git"
+    "url": "git+https://github.com/McRain/debugcolor.git"
   },
   "keywords": [
     "console",
@@ -14,7 +14,7 @@
   "author": "Viktor Abdulov <admin@reneos.com> (http://blog.reneos.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/McRain/logcolor/issues"
+    "url": "https://github.com/McRain/debugcolor/issues"
   },
-  "homepage": "https://github.com/McRain/logcolor#readme"
+  "homepage": "https://github.com/McRain/debugcolor#readme"
 }
